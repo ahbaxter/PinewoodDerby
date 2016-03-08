@@ -1,0 +1,2 @@
+# Pinewood Derby
+Tried to set up a Pinewood Derby and found out how expensive the equipment is. I'm not having any of that, so I'm writing my own program to take care of everything. This interface operates in tandem with a separate Arduino unit.
